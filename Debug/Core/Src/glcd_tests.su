@@ -1,0 +1,9 @@
+../Core/Src/glcd_tests.c:112:6:glcd_TestBorder	24	static
+../Core/Src/glcd_tests.c:213:6:glcd_TestLine	16	static
+../Core/Src/glcd_tests.c:221:6:glcd_TestRectangle	32	static
+../Core/Src/glcd_tests.c:231:6:glcd_TestRectangleFill	16	static
+../Core/Src/glcd_tests.c:239:6:glcd_TestCircle	16	static
+../Core/Src/glcd_tests.c:254:6:glcd_TestArc	16	static
+../Core/Src/glcd_tests.c:261:6:glcd_TestPolyline	32	static
+../Core/Src/glcd_tests.c:278:6:glcd_TestDrawBitmap	16	static
+../Core/Src/glcd_tests.c:293:6:glcd_TestAll	8	static
